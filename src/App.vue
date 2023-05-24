@@ -6,7 +6,7 @@
   <header>
     <nav class="navbar navbar-expand-lg bg-light">
       <div class="container-fluid">
-        <RouterLink class="navbar-brand green" to="/">Tugas UTS</RouterLink>
+        <RouterLink class="navbar-brand green" to="/">UTS framework JS</RouterLink>
         <button
           class="navbar-toggler"
           type="button"
@@ -22,7 +22,7 @@
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
               <RouterLink class="nav-link green" aria-current="page" to="/"
-                >Galery</RouterLink
+                >Club ball</RouterLink
               >
             </li>
             <li class="nav-item">

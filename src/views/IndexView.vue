@@ -5,7 +5,7 @@
 <template>
   <main>
     <div class="container">
-      <h2 class="text-center mt-2">Halaman index</h2>
+      <h2 class="text-center mt-2">FOOTBALL CLUB</h2>
       <Index />
     </div>
   </main>

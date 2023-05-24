@@ -5,8 +5,8 @@
         logo_bendera: [
           {
             rating: "rating1.png",
-            bendera: "bendera.png",
-            negara: "indonesia",
+            bendera: "amerika.jpg",
+            negara: "USA",
           },
         ],
         data_live_liga_one: [

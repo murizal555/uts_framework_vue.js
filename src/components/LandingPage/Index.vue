@@ -5,8 +5,8 @@
         data_images: [
           {
             id: 1,
-            logo_name: "FOTBALL FC",
-            logo_file: "bola1.png",
+            logo_name: "ARSENAL",
+            logo_file: "arsenal.jpg",
             palyed: 8,
             scores: 4,
             lose: 0,
@@ -23,8 +23,8 @@
           },
           {
             id: 3,
-            logo_name: "HANOVER",
-            logo_file: "bola3.jpeg",
+            logo_name: "AC MILAN",
+            logo_file: "milan.jpg",
             palyed: 6,
             scores: 2,
             lose: 2,
@@ -32,8 +32,8 @@
           },
           {
             id: 4,
-            logo_name: "BROCELLE",
-            logo_file: "bola4.jpeg",
+            logo_name: "INTER MILAN",
+            logo_file: "inter.jpg",
             palyed: 6,
             scores: 2,
             lose: 2,
@@ -41,8 +41,8 @@
           },
           {
             id: 5,
-            logo_name: "CLUB BRUGEN KV",
-            logo_file: "bola5.png",
+            logo_name: "MANCESTER UNITED",
+            logo_file: "MUI.png",
             palyed: 6,
             scores: 2,
             lose: 2,
@@ -50,8 +50,8 @@
           },
           {
             id: 6,
-            logo_name: "CHAMPION TEAM",
-            logo_file: "bola6.jpeg",
+            logo_name: "VALENCIA",
+            logo_file: "valencia.jpg",
             palyed: 6,
             scores: 2,
             lose: 2,
@@ -59,8 +59,8 @@
           },
           {
             id: 7,
-            logo_name: "SOCCER CLUB",
-            logo_file: "bola7.png",
+            logo_name: "PARIS",
+            logo_file: "paris.jpg",
             palyed: 6,
             scores: 2,
             lose: 2,
@@ -77,8 +77,8 @@
           },
           {
             id: 9,
-            logo_name: "ALMERIA",
-            logo_file: "bola9.png",
+            logo_name: "BORUSSIA DORTMUND",
+            logo_file: "OIP.jpg",
             palyed: 6,
             scores: 2,
             lose: 2,
@@ -86,8 +86,8 @@
           },
           {
             id: 10,
-            logo_name: "FC BAZENHEID",
-            logo_file: "bola10.png",
+            logo_name: "BAYER MUNCHEN",
+            logo_file: "bayer.jpg",
             palyed: 6,
             scores: 2,
             lose: 2,
